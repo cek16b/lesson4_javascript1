@@ -13,7 +13,7 @@ Clayton Kuhlmeier
 For this project I made an online expense calculator
 
 ### View Project:
-cek16b.github.io
+cek16b.github.io/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
 1. I learned how to create a program on a website through JavaScript
