@@ -3,21 +3,20 @@
 ### Course Title:
 Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Date:
+(October 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+Clayton Kuhlmeier
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+For this project I made an online expense calculator
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+cek16b.github.io
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create a program on a website through JavaScript
+2. I am still getting use to using github
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
